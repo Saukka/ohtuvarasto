@@ -1,5 +1,3 @@
-/python/varasto/src/tests/varasto_test.py
-
 import unittest
 from varasto import Varasto
 
